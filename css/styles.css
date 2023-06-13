@@ -1,0 +1,205 @@
+ body{
+    background-color: #eaf6f6;
+    
+} 
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-size: 4.5rem;
+    padding-top: 80px;
+    font-family: 'Sacramento', cursive;
+    /* width: 10%;
+    margin: 0px auto ; */
+    /* margin: 1em;
+        margin: -3px; */
+}
+h2{
+    color: #66BFBF;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: normal;
+}
+h3{
+    color: #11999E;
+
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h4{
+    color: purple;
+
+}
+.intro{
+    width: 50%;
+    
+    margin: auto;
+}
+p{
+    line-height: 2.5;
+}
+hr{
+    border: dotted #2c2e2e 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto ;
+}
+.contact-msg{
+    width: 50%;
+    margin: 50px auto 50px;
+}
+.skills{
+    margin-bottom: 100px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, 11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, 11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, 11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, 11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, 11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.contact-me{
+    
+    padding: 200px;
+}
+/* div{
+    background-color: #C2DEDC;
+} */
+/* div {
+    background-color: red;
+}
+div {
+    background-color: green;
+} */
+.top-container{
+    
+   
+    /* padding: 200px;
+    margin: 200px;
+    border: 200px;  */
+    /* width: 200px;
+    height: 200px; */
+}
+.middle-container{
+    margin: 100px 0;
+    /* padding: auto; */
+    /* background-color: red;
+    padding: 200px;
+    margin: 200px;
+    border: 200px;
+    width: 200px;
+    height: 200px; */
+    
+    
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+   
+    /* padding: 200px;
+    margin: 200px;
+    border: 200px; */
+    
+}
+/* .gamer{
+    text-decoration: underline;
+    color: blue;
+} */
+.bc{
+   
+    position: absolute;
+    left: 10%;
+}
+.tc{
+    padding-top: 20px;
+    position: absolute;
+    left: 80%;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px 20px 50px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color:#eaf6f6;
+}
+.copyright{
+    color: #edf5f5;
+    
+    font-size: 0.65rem;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px 0;
+}
+span:hover{
+    color: purple;
+}
+/* .footer-link{
+    color:#11999E;
+} */
+
+.skill-row{
+    width: auto;
+    margin: 40px 200px 40px 200px;
+    text-align:  left;
+    
+    
+    
+}
+.pc-img{
+    width: 10%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 100px;
+
+}
+.gm-img{
+    width: 10%;
+    float: left;
+    margin-right: 30px;
+    margin-left: 100px;
+        
+        
+        
+}
+.tamim-img{
+    float: center;
+}
+
+.hdes {
+    padding-right: 333px;
+    padding-left: 333px;
+}
+   
+h6{
+  color: #141d1d59; 
+}
+
+
+
